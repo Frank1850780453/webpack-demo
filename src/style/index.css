@@ -1,0 +1,17 @@
+body {
+    background-color: #f1f1f1;
+    /* background-image: url('../img/2.jpeg');*/
+} 
+.smallImg{
+    background: url('../img/2.jpg') no-repeat center;
+    width: 100px;
+    height: 100px;
+}
+.bigImg{
+    background: url('../img/1.jpg') no-repeat center;
+    width: 200px;
+    height: 200px;
+}
+/* p {
+    transform: rotate(-45deg);
+} */
